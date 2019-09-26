@@ -1,11 +1,11 @@
 # Site settings
 author: Tarric Sookdeo
-title: 
+title: Tarric's Blog
 header-img: img/home-bg.png
 email: tarricsookdeo@outlook.com
 copyright_name: Tarric Sookdeo
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Understand Technology
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tarricsookdeo
