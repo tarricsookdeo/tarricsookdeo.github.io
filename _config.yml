@@ -1,11 +1,11 @@
 # Site settings
 author: Tarric Sookdeo
-title: Tarric's Blog
+title: Learn the Midnight Oil
 header-img: img/home-bg.png
 email: tarricsookdeo@outlook.com
 copyright_name: Tarric Sookdeo
 description: > # this means to ignore newlines until "baseurl:"
-  Understand Technology
+  Living on Code Time
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tarricsookdeo
