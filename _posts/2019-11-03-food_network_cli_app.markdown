@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Food Network CLI App"
-date:       2019-11-03 11:13:23 +0000
+date:       2019-11-03 06:13:24 -0500
 permalink:  food_network_cli_app
 ---
 
