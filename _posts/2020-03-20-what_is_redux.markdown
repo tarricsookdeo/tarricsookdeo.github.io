@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What is Redux?"
-date:       2020-03-20 06:26:23 +0000
+date:       2020-03-20 02:26:24 -0400
 permalink:  what_is_redux
 ---
 
